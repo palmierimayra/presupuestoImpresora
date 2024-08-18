@@ -1,0 +1,12 @@
+body {
+  border-radius: 15px;
+  display: grid;
+  justify-content: center;
+  background-color: black;
+  background-image: url('https://i.ibb.co/vXC0cR5/Dise-o-sin-t-tulo.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: fixed;
+  font-family: 'calibri';
+  color: white;
+}

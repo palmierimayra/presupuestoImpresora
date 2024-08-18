@@ -1,0 +1,22 @@
+.home {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    border: solid 1mm white;
+    border-radius: 5mm;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+input{
+    border-radius: 80px;
+    text-align: center;
+}
+
+.h1{
+    color: red;
+    font-weight: bolder;
+}
